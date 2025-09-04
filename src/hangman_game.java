@@ -11,7 +11,7 @@ public class hangman_game {
 
         // JAVA HANGMAN GAME
 
-        String filePath = "C:\\Users\\THIS SUCKs\\IdeaProjects\\MY FIRST PROJECT\\src\\words.txt";
+        String filePath = "C:\\Users\\THIS SUCKs\\IdeaProjects\\JAVA\\src\\words.txt";
         ArrayList<String> words = new ArrayList<>();
 
         try(BufferedReader reader = new BufferedReader(new FileReader(filePath))){
