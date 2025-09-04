@@ -10,6 +10,7 @@ public class hangman_game {
     public static void main(String[] args) {
 
         // JAVA HANGMAN GAME
+        // Hello this sucks
 
         String filePath = "C:\\Users\\THIS SUCKs\\IdeaProjects\\JAVA\\src\\words.txt";
         ArrayList<String> words = new ArrayList<>();
